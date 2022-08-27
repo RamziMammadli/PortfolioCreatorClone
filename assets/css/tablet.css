@@ -1,0 +1,73 @@
+@media(max-width:768px) and (min-width:576px) {
+
+    body {
+        
+    }
+    .main-text-lms,
+    .text-lms,
+    .btns-left-main-side {
+        text-align: center;
+    }
+    .trusted-by {
+        
+    }
+    .trusted-by p {
+        
+    }
+    .card {
+        width: 45%;
+    }
+    .text-projects button {
+        padding-bottom: 50px;
+        padding-top: 10px;
+    }
+    .grid {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .right-pd {
+        text-align: center;
+    }
+    .edu-work {
+        flex-wrap: wrap;
+        min-width: 768px;
+    }
+    .left-pd {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .right-pd small {
+        font-weight: 100;
+    }
+    .testimonials-text {
+        text-align: center;
+    }
+    .left-tm {
+        display: flex;
+        justify-content: center;
+        width: 90%;
+    }
+    .right-tm {
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        text-align: center;
+    }
+    .questions {
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+    }
+    .logos {
+        padding-right: 70%;
+    }
+   
+
+}
+  
