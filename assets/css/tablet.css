@@ -1,4 +1,4 @@
-@media(max-width:768px) and (min-width:576px) {
+@media(max-width:768px) and (min-width:376px) {
 
     body {
         
@@ -67,7 +67,18 @@
     .logos {
         padding-right: 70%;
     }
-   
+    .main-footer {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 35px;
+    }
+    .btns-left-main-side {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+        
+    
 
 }
   
